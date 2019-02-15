@@ -1,26 +1,31 @@
-# Motivation
+## Index
+- [Index](#index%01)
+- [Motivation](#motivation)
+- [1. arXiv-CV](#1-arxiv-cv)
+  - [2019.02](#201902)
+    - [**2019-02-15**](#2019-02-15)
+    - [**2019-02-14**](#2019-02-14)
+    - [**2019-02-13**](#2019-02-13)
+- [2. 3D-Face](#2-3d-face)
+- [3. Video-Based](#3-video-based)
+- [4. Others](#4-others)
+
+## Motivation
 This repo is originally created for organizing and motivating myself to reading papers continuously. There are several similar repos, e.g. [CV-arXiv-Daily](https://github.com/zhengzhugithub/CV-arXiv-Daily), [FacePaperCollection](https://github.com/ShownX/FacePaperCollection), but there are a thousand Hamlets in a thousand people's eyes, and my focus may differ from others. Due to my limited ability and energy, any corrections and discussions are welcomed if there are any mistakes. At last, pull requests are especially welcomed.
 
 My main interests: Face Recognition, 3D Face, Face Anti-Spoofing, Face Analysis, Human Pose and so on.
 
-The papers of arXiv on CV will be updated daily.
+The papers of arXiv on CV will be updated daily. The other papers, most of which come from top confrence, will be categoried.
 
 **Keep going!**
 
----
-
-## Index
-1. [arXiv-CV](#arXiv-CV)
-2. [ECCV-2018](#ECCV-2018)
-3. [CVPR-2018](#CVPR-2018)
-
 
 ---
 
-## arXiv-CV
+## 1. arXiv-CV
 
 ### 2019.02
-**2019-02-15**
+#### **2019-02-15**
 
 - [1] Face Attribute （人脸颜值打分）
   
@@ -29,7 +34,7 @@ The papers of arXiv on CV will be updated daily.
   Institute: ObEN
 
 
-**2019-02-14**
+#### **2019-02-14**
 
  - [Multi-views Embedding for Cattle Re-identification](https://arxiv.org/pdf/1902.04886.pdf)
   
@@ -58,7 +63,7 @@ The papers of arXiv on CV will be updated daily.
   Authors: Feng Liu, Luan Tran, Xiaoming Liu
 
 
-**2019-02-13**
+#### **2019-02-13**
 
  - [DeeperLab: Single-Shot Image Parser](https://arxiv.org/pdf/1902.05093.pdf)
   
@@ -68,13 +73,18 @@ The papers of arXiv on CV will be updated daily.
 
 ---
 
-## ECCV-2018
-
-### 3D Face
-- [Generating 3D faces using Convolutional Mesh Autoencoders](https://www.is.mpg.de/uploads_file/attachment/attachment/439/1285.pdf)
+## 2. 3D-Face
+- [Generating 3D faces using Convolutional Mesh Autoencoders](https://www.is.mpg.de/uploads_file/attachment/attachment/439/1285.pdf) [ECCV 2018]
   
-  Project Homepage：http://coma.is.tue.mpg.de/
+   [[Project](http://coma.is.tue.mpg.de/)]
 
----
+## 3. Video-Based
+- [Learning-based Video Motion Magnification](https://arxiv.org/pdf/1804.02684.pdf) **[ECCV 2018 Oral]**
+  [[Project](http://people.csail.mit.edu/tiam/deepmag/)], [[Code](https://github.com/12dmodel/deep_motion_mag)], [[Dataset](https://groups.csail.mit.edu/graphics/deep_motion_mag/data/readme.txt)], [[Demo](https://www.youtube.com/watch?v=GrMLeEcSNzY&feature=youtu.be)]
+  Institute: MIT, Google
 
-## CVPR-2018
+- [Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolatio](https://arxiv.org/pdf/1712.00080.pdf) [CVPR 2018]
+[[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)], [[Code](https://github.com/avinashpaliwal/Super-SloMo)]
+Institute: Nvidia
+
+## 4. Others
