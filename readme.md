@@ -19,7 +19,7 @@ The papers of arXiv on CV will be updated daily.
 ### 2019.02
 **2019-02-15**
 
-- Face Attribute （人脸颜值打分）
+- [1] Face Attribute （人脸颜值打分）
   
   Title: [Understanding Beauty via Deep Facial Features](https://arxiv.org/pdf/1902.05380.pdf)
 
