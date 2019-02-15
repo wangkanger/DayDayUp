@@ -86,9 +86,9 @@ The papers of arXiv on CV will be updated daily. The other papers, most of which
   Institute: MIT, Google
 
 - [Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolatio](https://arxiv.org/pdf/1712.00080.pdf) [CVPR 2018]
-- 
-[[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)], [[Code](https://github.com/avinashpaliwal/Super-SloMo)]
+  
+  [[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)], [[Code](https://github.com/avinashpaliwal/Super-SloMo)]
 
-Institute: Nvidia
+  Institute: Nvidia
 
 ## 4. Others
