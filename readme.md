@@ -80,11 +80,15 @@ The papers of arXiv on CV will be updated daily. The other papers, most of which
 
 ## 3. Video-Based
 - [Learning-based Video Motion Magnification](https://arxiv.org/pdf/1804.02684.pdf) **[ECCV 2018 Oral]**
+
   [[Project](http://people.csail.mit.edu/tiam/deepmag/)], [[Code](https://github.com/12dmodel/deep_motion_mag)], [[Dataset](https://groups.csail.mit.edu/graphics/deep_motion_mag/data/readme.txt)], [[Demo](https://www.youtube.com/watch?v=GrMLeEcSNzY&feature=youtu.be)]
+
   Institute: MIT, Google
 
 - [Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolatio](https://arxiv.org/pdf/1712.00080.pdf) [CVPR 2018]
+- 
 [[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)], [[Code](https://github.com/avinashpaliwal/Super-SloMo)]
+
 Institute: Nvidia
 
 ## 4. Others
