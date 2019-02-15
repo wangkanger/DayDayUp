@@ -11,8 +11,8 @@ The papers of arXiv on CV will be updated daily.
 
 ## Index
 1. [arXiv-CV](#arXiv-CV)
-2. [ECCV 2018](#ECCV\ 2018)
-3. [CVPR 2018](#CVPR\ 2018)
+2. [ECCV 2018](#ECCV 2018)
+3. [CVPR 2018](#CVPR 2018)
 
 
 ---
