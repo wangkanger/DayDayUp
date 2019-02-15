@@ -27,9 +27,9 @@ The papers of arXiv on CV will be updated daily. The other papers, most of which
 ### 2019.02
 #### **2019-02-15**
 
-- [1] Face Attribute （人脸颜值打分）
+- [Understanding Beauty via Deep Facial Features](https://arxiv.org/pdf/1902.05380.pdf)
   
-  Title: [Understanding Beauty via Deep Facial Features](https://arxiv.org/pdf/1902.05380.pdf)
+  Category: Face Attribute （人脸颜值打分）
 
   Institute: ObEN
 
