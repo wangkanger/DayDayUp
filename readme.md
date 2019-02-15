@@ -1,5 +1,5 @@
-## Index
-- [Index](#index%01)
+## Index
+- [Index](#index)
 - [Motivation](#motivation)
 - [1. arXiv-CV](#1-arxiv-cv)
   - [2019.02](#201902)
