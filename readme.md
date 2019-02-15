@@ -1,4 +1,4 @@
-# Motivation
+# Motivation
 This repo is originally created for organizing and motivating myself to reading papers continuously. There are several similar repos, e.g. [CV-arXiv-Daily](https://github.com/zhengzhugithub/CV-arXiv-Daily).
 
 
@@ -7,7 +7,7 @@ This repo is originally created for organizing and motivating myself to reading 
 ## 2019.02
 **2019-02-15**
 
-- Face Attribute （人脸颜值打分）
+- Face Attribute （人脸颜值打分）
   
   题目：[Understanding Beauty via Deep Facial Features](https://arxiv.org/pdf/1902.05380.pdf)
   机构：ObEN
@@ -29,8 +29,8 @@ This repo is originally created for organizing and motivating myself to reading 
 
 - [Multi-Prototype Networks for Unconstrained Set-based Face Recognition](https://arxiv.org/pdf/1902.04755.pdf)
   
-  类别：Face Recognition
-  机构：Tencent FiT DeepSea AI Lab, NUS, CASIA, 360, IIAI
+  类别：Face Recognition \\
+  机构：Tencent FiT DeepSea AI Lab, NUS, CASIA, 360, IIAI \\
   评论：todo
 
 - [3D Face Modeling from Diverse Raw Scan Data](https://arxiv.org/pdf/1902.04943.pdf)
@@ -42,5 +42,5 @@ This repo is originally created for organizing and motivating myself to reading 
 
  - [DeeperLab: Single-Shot Image Parser](https://arxiv.org/pdf/1902.05093.pdf)
   
-   类别：Image Parsing
+   类别：Image Parsing \\
    机构：MIT, Google, UC Berkeley
