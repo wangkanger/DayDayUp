@@ -1,7 +1,12 @@
 # Motivation
-This repo is originally created for organizing and motivating myself to reading papers continuously. There are several similar repos, e.g. [CV-arXiv-Daily](https://github.com/zhengzhugithub/CV-arXiv-Daily), but there are a thousand Hamlets in a thousand people's eyes, and my focus is different from others. Due to my limited ability and energy, any corrections and discussions are welcomed if there are any mistakes. At last, pull requests are especially welcomed.
+This repo is originally created for organizing and motivating myself to reading papers continuously. There are several similar repos, e.g. [CV-arXiv-Daily](https://github.com/zhengzhugithub/CV-arXiv-Daily), [FacePaperCollection](https://github.com/ShownX/FacePaperCollection), but there are a thousand Hamlets in a thousand people's eyes, and my focus may differ from others. Due to my limited ability and energy, any corrections and discussions are welcomed if there are any mistakes. At last, pull requests are especially welcomed.
 
 ---
+
+## Index
+1. [arXiv-CV](#arXiv-CV)
+2. [ECCV 2018](#ECCV\ 2018)
+3. [CVPR 2018](#CVPR\ 2018)
 
 ## arXiv-CV
 
@@ -39,11 +44,9 @@ This repo is originally created for organizing and motivating myself to reading 
 
   Institute: Tencent FiT DeepSea AI Lab, NUS, CASIA, 360, IIAI
 
-  Comments: [Todo]
-
 - [3D Face Modeling from Diverse Raw Scan Data](https://arxiv.org/pdf/1902.04943.pdf)
   
-  Authors:Feng Liu, Luan Tran, Xiaoming Liu
+  Authors: Feng Liu, Luan Tran, Xiaoming Liu
 
 
 **2019-02-13**
@@ -62,3 +65,6 @@ This repo is originally created for organizing and motivating myself to reading 
 - [Generating 3D faces using Convolutional Mesh Autoencoders](https://www.is.mpg.de/uploads_file/attachment/attachment/439/1285.pdf)
   
   Project Homepage：http://coma.is.tue.mpg.de/
+
+
+## CVPR 2018
