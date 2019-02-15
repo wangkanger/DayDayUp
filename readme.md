@@ -17,7 +17,7 @@ My main interests: Face Recognition, 3D Face, Face Anti-Spoofing, Face Analysis,
 
 The papers of arXiv on CV will be updated daily. The other papers, most of which come from top confrence, will be categoried.
 
-**Keep going!**
+**Keep going!** Good good study, day day stronger.
 
 
 ---
