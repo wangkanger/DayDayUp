@@ -1,7 +1,11 @@
 # Motivation
 This repo is originally created for organizing and motivating myself to reading papers continuously. There are several similar repos, e.g. [CV-arXiv-Daily](https://github.com/zhengzhugithub/CV-arXiv-Daily), [FacePaperCollection](https://github.com/ShownX/FacePaperCollection), but there are a thousand Hamlets in a thousand people's eyes, and my focus may differ from others. Due to my limited ability and energy, any corrections and discussions are welcomed if there are any mistakes. At last, pull requests are especially welcomed.
 
-Keep going!
+My interest: Face Recognition, 3D Face, Face Anti-Spoofing, Human Pose and so on.
+
+The papers of arXiv on CV will be updated daily.
+
+**Keep going!**
 
 ---
 
